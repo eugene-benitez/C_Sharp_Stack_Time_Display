@@ -1,0 +1,21 @@
+body {
+    background-color: #a6e3e9;
+}
+
+.wrapper {
+    width: 100%;
+    max-width: auto;
+    height: 100%;
+    max-height: auto;
+    position: absolute;
+    margin: 0 auto;
+}
+
+.box {
+    border: 1px solid black;
+    display: inline-block;
+    height: 300px;
+    width: 600px;
+    text-align: center;
+    padding: 20px;
+}

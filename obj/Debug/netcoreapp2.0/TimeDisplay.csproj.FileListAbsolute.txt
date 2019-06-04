@@ -1,0 +1,10 @@
+/Users/eugenebenitez/Desktop/C_Sharp/ASP/TimeDisplay/bin/Debug/netcoreapp2.0/TimeDisplay.deps.json
+/Users/eugenebenitez/Desktop/C_Sharp/ASP/TimeDisplay/bin/Debug/netcoreapp2.0/TimeDisplay.runtimeconfig.json
+/Users/eugenebenitez/Desktop/C_Sharp/ASP/TimeDisplay/bin/Debug/netcoreapp2.0/TimeDisplay.runtimeconfig.dev.json
+/Users/eugenebenitez/Desktop/C_Sharp/ASP/TimeDisplay/bin/Debug/netcoreapp2.0/TimeDisplay.dll
+/Users/eugenebenitez/Desktop/C_Sharp/ASP/TimeDisplay/bin/Debug/netcoreapp2.0/TimeDisplay.pdb
+/Users/eugenebenitez/Desktop/C_Sharp/ASP/TimeDisplay/obj/Debug/netcoreapp2.0/TimeDisplay.csproj.CoreCompileInputs.cache
+/Users/eugenebenitez/Desktop/C_Sharp/ASP/TimeDisplay/obj/Debug/netcoreapp2.0/TimeDisplay.AssemblyInfoInputs.cache
+/Users/eugenebenitez/Desktop/C_Sharp/ASP/TimeDisplay/obj/Debug/netcoreapp2.0/TimeDisplay.AssemblyInfo.cs
+/Users/eugenebenitez/Desktop/C_Sharp/ASP/TimeDisplay/obj/Debug/netcoreapp2.0/TimeDisplay.dll
+/Users/eugenebenitez/Desktop/C_Sharp/ASP/TimeDisplay/obj/Debug/netcoreapp2.0/TimeDisplay.pdb
